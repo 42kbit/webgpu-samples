@@ -1,0 +1,24 @@
+{
+  "name": "webgpu-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/42kbit/webgpu-samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/42kbit/webgpu-samples/issues"
+  },
+  "homepage": "https://github.com/42kbit/webgpu-samples#readme",
+  "devDependencies": {
+    "@webgpu/types": "^0.1.67",
+    "typescript": "^5.9.3"
+  }
+}
